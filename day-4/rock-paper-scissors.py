@@ -55,4 +55,4 @@ elif player_choice == computer_choice:
 elif player_choice == 0 and computer_choice == 2:
     print('You win!')
 else:
-    print('You lose!')
+    print('You lose! :(')
