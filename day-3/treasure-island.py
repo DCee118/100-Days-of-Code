@@ -23,9 +23,9 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 *******************************************************************************
 ''')
 print('Welcome to Treasure Island!')
-time.sleep(1)
+time.sleep(2)
 print('Your mission is to find the treasure.')
-time.sleep(1)
+time.sleep(2)
 print('You have arived on the island and you walk into the jungle.')
 time.sleep(2)
 print('It suddenly becomes dark, you reach a dead end.')
