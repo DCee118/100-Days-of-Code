@@ -27,4 +27,6 @@ while should_continue:
     restart = input('Do you want to restart the cipher program? yes or no\n')
     if restart == 'no':
         should_continue = False
+        from art import logo
+        print(logo)
         print('Goodbye.')
