@@ -38,5 +38,5 @@ random.shuffle(password_list)
 high_security_password = ""
 for char in password_list:
     high_security_password += char
-print(f' Your password is: {high_security_password}')
+print(f' Your password is:{high_security_password}')
     
